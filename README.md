@@ -35,7 +35,15 @@ Face Recognition/
 2. Jalankan Jupiter Notebook
    ```bash
    jupyter notebook face_recognition.ipynb
-3. Jalankan Masing Masing Sel (Jika ada yang error tanyakan AI)
+3. Jalankan Masing Masing Sel (Jika bermasalah silahkan berdiskusi dengan AI)
+
+# 📄 Lisensi
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+---
+
+_Jangan ragu untuk memberikan bintang ⭐ pada repositori ini jika Anda merasa terbantu!_
+
 
 
 
