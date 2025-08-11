@@ -17,6 +17,7 @@ Aplikasi ini dapat mendeteksi wajah secara real-time menggunakan kamera, serta m
 - Pickle (`.pkl`) — untuk menyimpan model.
 
 #📂 Struktur Proyek
+```
 Face Recognition/
 │
 ├── face_recognition.ipynb # Notebook utama
@@ -24,7 +25,7 @@ Face Recognition/
 ├── dataset/ # Dataset wajah (opsional)
 ├── requirements.txt # Daftar dependencies
 └── README.md # Dokumentasi proyek
-
+```
 
 # 🚀 Cara Menjalankan
 1. Clone repository
